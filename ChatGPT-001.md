@@ -1,5 +1,5 @@
 JFS Prompt:
-The internet confused about AGI. "People say an AGI can not replace human intelligence or have cohesive conversation about ethics and morality of how AGI can . " The leads me to ask if you AGI's can do Retroduction reasoning "concomitance" as well as deductive reasoning thinking to solve complex problems. Talk to me about this.
+The internet confused about AGI. "People say an AGI can not replace human intelligence or have cohesive conversation about ethics and morality of how AGI can act in socity. " The leads me to ask if you AGI's can do Retroduction reasoning "concomitance" as well as deductive reasoning thinking to solve complex problems. Talk to me about this.
 
 ChatGPT4 Response:
 As an AGI language model, I am capable of performing various forms of reasoning, including deductive, inductive, and abductive reasoning.
